@@ -1,0 +1,54 @@
+
+# 1 "F:\program\PIC\test\lcd22\touch\stm8_interrupt_vector.c"
+
+# 5
+typedef void (*interrupt_handler_t)(void);
+
+struct interrupt_vector {
+unsigned char interrupt_instruction;
+interrupt_handler_t interrupt_handler;
+};
+
+@far @interrupt void NonHandledInterrupt (void)
+{
+
+# 17
+return;
+}
+
+extern void _stext();
+
+struct interrupt_vector const _vectab[] = {
+{0x82, (interrupt_handler_t)_stext},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+{0x82, NonHandledInterrupt},
+};

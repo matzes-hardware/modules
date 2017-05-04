@@ -1,0 +1,1 @@
+system.d system.p1: E:\Program\PRGPIC\PIC18F4520\lcd22_rili\system.c E:/Program/PRGPIC/PIC18F4520/lcd22_rili/system.h

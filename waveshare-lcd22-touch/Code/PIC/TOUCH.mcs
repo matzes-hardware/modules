@@ -1,0 +1,627 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.p1
+Folder=Intermediary
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\main.p1
+Folder=Intermediary
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.p1
+Folder=Intermediary
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\lcd_22.p1
+Folder=Intermediary
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\main.p1
+Folder=Intermediary
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\system.p1
+Folder=Intermediary
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\lcd_22.p1
+Folder=Intermediary
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\main.p1
+Folder=Intermediary
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\system.p1
+Folder=Intermediary
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\TOUCH.cof
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File010]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\TOUCH.hex
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File011]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\TOUCH.sym
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File012]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\TOUCH.map
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File013]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\TOUCH.hxl
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File014]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\startup.lst
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File015]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\startup.rlf
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File016]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\doprnt.p1
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File017]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\doprnt.pre
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File018]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\TOUCH.obj
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File019]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\TOUCH.lst
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File020]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\TOUCH.rlf
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File021]
+Location=E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\TOUCH.sdb
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=5,4
+TraceCmdString=
+DebugOptions=
+[File022]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\TOUCH.cof
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File023]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\TOUCH.hex
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File024]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\TOUCH.sym
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File025]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\TOUCH.map
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File026]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\TOUCH.hxl
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File027]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\startup.lst
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File028]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\startup.rlf
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File029]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\doprnt.p1
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File030]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\doprnt.pre
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File031]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\TOUCH.obj
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File032]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\TOUCH.lst
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File033]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\TOUCH.rlf
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File034]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22\TOUCH.sdb
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File035]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\TOUCH.cof
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File036]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\TOUCH.hex
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File037]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\TOUCH.sym
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File038]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\TOUCH.map
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File039]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\TOUCH.hxl
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File040]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\startup.lst
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File041]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\startup.rlf
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File042]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\doprnt.p1
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File043]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\doprnt.pre
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File044]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\TOUCH.obj
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File045]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\TOUCH.lst
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File046]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\TOUCH.rlf
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=
+[File047]
+Location=E:\Program\PRGPIC\PIC18F4520\lcd22_rili\TOUCH.sdb
+Folder=Output
+DeviceName=PIC18F4520
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|lcd_22.c|main.c|system.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=0ÿobj;*.p1;*.hex C9=4,3
+TraceCmdString=
+DebugOptions=

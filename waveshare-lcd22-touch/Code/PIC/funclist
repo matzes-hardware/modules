@@ -1,0 +1,17 @@
+_post_data: CODE, 28208 0 22
+_get_touch_xy: CODE, 28444 0 68
+_LCD_test: CODE, 28858 0 200
+_get_point_xy: CODE, 29070 0 602
+_delay_us: CODE, 28304 0 38
+_main: CODE, 28512 0 1222
+_get_touch_data: CODE, 28380 0 64
+___lmul: CODE, 28584 0 76
+_draw_lcd: CODE, 28660 0 172
+_init_lcd: CODE, 29734 0 968
+_init_lcd_spi: CODE, 28190 0 18
+_delay_ms: CODE, 28342 0 38
+_lcd_rst: CODE, 28252 0 24
+_init_touch_spi: CODE, 28172 0 18
+_post_cmd: CODE, 28276 0 28
+_init_mcu: CODE, 28154 0 18
+Total: 3576

@@ -1,0 +1,134 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+COLOR_BLACK::0x0000	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	37;"	d	line:37
+COLOR_INIT::COLOR_YELLOW	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	39;"	d	line:39
+COLOR_WHITE::0xFFFF	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	38;"	d	line:38
+COLOR_YELLOW::0xFFE0	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	36;"	d	line:36
+DOT_WIDTH::2	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	41;"	d	line:41
+DisplayChar	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	221;"	f	line:221	signature:(u8 casc,u8 postion_x,u8 postion_y)
+DisplayChar_Reverse	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	259;"	f	line:259	signature:(u8 casc,u8 postion_x,u8 postion_y)
+DisplayString	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	312;"	f	line:312	signature:(u8 *s,u8 x,u8 y,u8 Reverse)
+DisplayString	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\main.c	15;"	p	line:15	file:	signature:(u8 *s,u8 x,u8 y,u8 Reverse)
+LCD22_SPI	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	7;"	d	line:7
+LCD_22_H	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	2;"	d	line:2
+LCD_DATA::PORTB	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	26;"	d	line:26
+LCD_DELAY::_asm("nop");_asm("nop");_asm("	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	50;"	d	line:50
+LCD_test	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	162;"	f	line:162	signature:(void)
+LCD_test	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\main.c	14;"	p	line:14	file:	signature:(void)
+PENIRQ::RA0	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	9;"	d	line:9
+SAMP_COUNT::4	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	30;"	d	line:30
+SAMP_THRESHOLD::5	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	31;"	d	line:31
+TOUCH_CMD_X::0xD0	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	33;"	d	line:33
+TOUCH_CMD_Y::0x90	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	34;"	d	line:34
+TOUCH_MAX_CACHE::8	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	49;"	d	line:49
+_CLK_H	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\clk.h	2;"	d	line:2
+_SYSTEM_H	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	16;"	d	line:16
+a	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	314;"	l	line:314
+ascii	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\asciihex8X16.h	1;"	v	line:1
+b	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	223;"	l	line:223
+b	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	261;"	l	line:261
+b	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	301;"	l	line:301	file:
+cbi::(io,bit)(io&=~(1<<bit))	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	55;"	d	line:55
+colorfol	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	3;"	v	line:3
+delay_ms	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.c	2;"	f	line:2	signature:(u16 ms)
+delay_ms	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	60;"	p	line:60	signature:(u16 ms)
+delay_us	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.c	15;"	f	line:15	signature:(u16 us)
+delay_us	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	61;"	p	line:61	signature:(u16 us)
+dis_lcd::{RA1=1;}	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	18;"	d	line:18
+dis_touch::{RA4=1;}	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	12;"	d	line:12
+draw_lcd	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	418;"	f	line:418	signature:(void)
+draw_lcd	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	63;"	p	line:63	signature:(void)
+en_lcd::{RA1=0;}	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	17;"	d	line:17
+en_lcd_data::{RA2=1;}	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	20;"	d	line:20
+en_lcd_index::{RA2=0;}	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	21;"	d	line:21
+en_touch::{RA4=0;}	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	11;"	d	line:11
+gbi::(pin,bit)(pin&(1<<bit))	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	57;"	d	line:57
+get_point_xy	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	372;"	f	line:372	signature:(void)
+get_point_xy	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	62;"	p	line:62	signature:(void)
+get_touch_data	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	339;"	f	line:339	signature:(u16 cmd)
+get_touch_data	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	60;"	p	line:60	signature:(u16 cmd)
+get_touch_xy	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	359;"	f	line:359	signature:(void)
+get_touch_xy	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	61;"	p	line:61	signature:(void)
+i	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	165;"	l	line:165
+i	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	223;"	l	line:223
+i	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	261;"	l	line:261
+i	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	300;"	l	line:300
+i	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	314;"	l	line:314
+i	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.c	17;"	l	line:17
+i	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.c	4;"	l	line:4
+init_lcd	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	69;"	f	line:69	signature:(void)
+init_lcd	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	64;"	p	line:64	signature:(void)
+init_lcd_spi	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	4;"	f	line:4	signature:(void)
+init_lcd_spi	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	55;"	p	line:55	signature:(void)
+init_mcu	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\main.c	18;"	f	line:18	signature:(void)
+init_touch_spi	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	24;"	f	line:24	signature:(void)
+init_touch_spi	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	56;"	p	line:56	signature:(void)
+j	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	223;"	l	line:223
+j	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	261;"	l	line:261
+lcd_rst	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	53;"	f	line:53	signature:(void)
+m	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	374;"	l	line:374
+main	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\main.c	28;"	f	line:28	signature:(void)
+n	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	165;"	l	line:165
+n	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	374;"	l	line:374
+n	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	420;"	l	line:420
+num	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	164;"	l	line:164
+p	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	224;"	l	line:224
+p	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	262;"	l	line:262
+post_cmd	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	61;"	f	line:61	signature:(u16 index, u16 cmd)
+post_cmd	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	58;"	p	line:58	signature:(u16 index, u16 cmd)
+post_data	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	34;"	f	line:34	signature:(u16 data)
+post_data	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	57;"	p	line:57	signature:(u16 data)
+reset_clr::{RD0=0;}	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	14;"	d	line:14
+reset_set::{RD0=1;}	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	15;"	d	line:15
+s16	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	19;"	t	line:19
+s32	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	18;"	t	line:18
+s8	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	20;"	t	line:20
+sbi::(io,bit)(io|=(1<<bit))	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	53;"	d	line:53
+sc16	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	23;"	t	line:23
+sc32	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	22;"	t	line:22
+sc8	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	24;"	t	line:24
+swap	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	298;"	f	line:298	signature:(u8 *s,u8 sz)
+temp	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	164;"	l	line:164
+tmp	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	341;"	l	line:341
+tmp	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	374;"	l	line:374
+tmp_x	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	376;"	l	line:376
+tmp_xy	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	361;"	l	line:361
+tmp_xy	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	375;"	l	line:375
+tmp_xy	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	384;"	l	line:384
+tmp_xy_buf	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	375;"	l	line:375
+tmp_xy_buf	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	384;"	l	line:384
+tmp_y	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	377;"	l	line:377
+touch_counter	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	53;"	v	line:53
+touch_rd_index	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	52;"	v	line:52
+touch_wr_index	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	51;"	v	line:51
+touch_xy_buffer	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	50;"	v	line:50
+u16	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	35;"	t	line:35
+u32	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	34;"	t	line:34
+u8	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	36;"	t	line:36
+uc16	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	39;"	t	line:39
+uc32	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	38;"	t	line:38
+uc8	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	40;"	t	line:40
+vs16	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	27;"	t	line:27
+vs32	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	26;"	t	line:26
+vs8	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	28;"	t	line:28
+vsc16	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	31;"	t	line:31
+vsc32	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	30;"	t	line:30
+vsc8	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	32;"	t	line:32
+vu16	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	43;"	t	line:43
+vu32	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	42;"	t	line:42
+vu8	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	44;"	t	line:44
+vuc16	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	47;"	t	line:47
+vuc32	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	46;"	t	line:46
+vuc8	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\system.h	48;"	t	line:48
+x	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	71;"	l	line:71
+x	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	45;"	m	line:45	struct:xy
+xy	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	43;"	s	line:43
+xy_t	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	47;"	t	line:47
+y	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.c	71;"	l	line:71
+y	E:\Program\PRGPIC\testPIC18F4520\lcd22\touch\lcd_22.h	46;"	m	line:46	struct:xy

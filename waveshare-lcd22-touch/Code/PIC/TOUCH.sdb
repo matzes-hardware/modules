@@ -1,0 +1,339 @@
+[p PRO_MODE GLOBOPT AUTOSTATIC LFSROK SPACEOPT ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F4520 ]
+"445 E:\Program\PRGPIC\PIC18F4520\lcd22_rili\lcd_22.c
+"5 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\abdiv.c
+[v ___abdiv `(c  1 e 1 0 ]
+"5 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\abmod.c
+[v ___abmod `(c  1 e 1 0 ]
+"32 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\abtofl.c
+[v ___abtofl `(d  1 e 3 0 ]
+"34 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\abtoft.c
+[v ___abtoft `(f  1 e 3 0 ]
+"10 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\aldiv.c
+[v ___aldiv `(l  1 e 4 0 ]
+"10 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\almod.c
+[v ___almod `(l  1 e 4 0 ]
+"37 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\altofl.c
+[v ___altofl `(d  1 e 3 0 ]
+"43 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\altoft.c
+[v ___altoft `(f  1 e 3 0 ]
+"5 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\asfladd.c
+[v ___asfladd `(d  1 e 3 0 ]
+"5 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\asfldiv.c
+[v ___asfldiv `(d  1 e 3 0 ]
+"5 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\asflmul.c
+[v ___asflmul `(d  1 e 3 0 ]
+"5 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\asflsub.c
+[v ___asflsub `(d  1 e 3 0 ]
+"5 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\asftadd.c
+[v ___asftadd `(f  1 e 3 0 ]
+"5 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\asftdiv.c
+[v ___asftdiv `(f  1 e 3 0 ]
+"5 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\asftmul.c
+[v ___asftmul `(f  1 e 3 0 ]
+"5 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\asftsub.c
+[v ___asftsub `(f  1 e 3 0 ]
+"5 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\aslmul.c
+[v ___aslmul `(ul  1 e 4 0 ]
+"10 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\atdiv.c
+[v ___atdiv `(m  1 e 3 0 ]
+"10 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\atmod.c
+[v ___atmod `(m  1 e 3 0 ]
+"38 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\attofl.c
+[v ___attofl `(d  1 e 3 0 ]
+"38 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\attoft.c
+[v ___attoft `(f  1 e 3 0 ]
+"10 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\awdiv.c
+[v ___awdiv `(i  1 e 2 0 ]
+"10 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\awmod.c
+[v ___awmod `(i  1 e 2 0 ]
+"32 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\awtofl.c
+[v ___awtofl `(d  1 e 3 0 ]
+"33 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\awtoft.c
+[v ___awtoft `(f  1 e 3 0 ]
+"3 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\bmul.c
+[v ___bmul `(uc  1 e 1 0 ]
+"64 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\double.c
+[v ___flpack `(d  1 e 3 0 ]
+"89 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\fladd.c
+[v ___fladd `(d  1 e 3 0 ]
+"50 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\fldiv.c
+[v ___fldiv `(d  1 e 3 0 ]
+"5 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\flge.c
+[v ___flge `(b  1 e 0 0 ]
+"51 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\flmul.c
+[v ___flmul `(d  1 e 3 0 ]
+"16 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\flneg.c
+[v ___flneg `(d  1 e 3 0 ]
+"63 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\float.c
+[v ___ftpack `(f  1 e 3 0 ]
+"22 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\flsub.c
+[v ___flsub `(d  1 e 3 0 ]
+"44 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\fltol.c
+[v ___fltol `(l  1 e 4 0 ]
+"87 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\ftadd.c
+[v ___ftadd `(f  1 e 3 0 ]
+"50 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\ftdiv.c
+[v ___ftdiv `(f  1 e 3 0 ]
+"5 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\ftge.c
+[v ___ftge `(b  1 e 0 0 ]
+"52 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\ftmul.c
+[v ___ftmul `(f  1 e 3 0 ]
+"16 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\ftneg.c
+[v ___ftneg `(f  1 e 3 0 ]
+"22 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\ftsub.c
+[v ___ftsub `(f  1 e 3 0 ]
+"45 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\fttol.c
+[v ___fttol `(l  1 e 4 0 ]
+"5 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\lbdiv.c
+[v ___lbdiv `(uc  1 e 1 0 ]
+"5 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\lbmod.c
+[v ___lbmod `(uc  1 e 1 0 ]
+"28 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\lbtofl.c
+[v ___lbtofl `(d  1 e 3 0 ]
+"28 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\lbtoft.c
+[v ___lbtoft `(f  1 e 3 0 ]
+"10 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\lldiv.c
+[v ___lldiv `(ul  1 e 4 0 ]
+"10 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\llmod.c
+[v ___llmod `(ul  1 e 4 0 ]
+"31 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\lltofl.c
+[v ___lltofl `(d  1 e 3 0 ]
+"36 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\lltoft.c
+[v ___lltoft `(f  1 e 3 0 ]
+"3 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\lmul.c
+[v ___lmul `(ul  1 e 4 0 ]
+"10 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\ltdiv.c
+[v ___ltdiv `(um  1 e 3 0 ]
+"10 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\ltmod.c
+[v ___ltmod `(um  1 e 3 0 ]
+"31 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\lttofl.c
+[v ___lttofl `(d  1 e 3 0 ]
+"31 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\lttoft.c
+[v ___lttoft `(f  1 e 3 0 ]
+"10 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\lwdiv.c
+[v ___lwdiv `(ui  1 e 2 0 ]
+"10 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\lwmod.c
+[v ___lwmod `(ui  1 e 2 0 ]
+"29 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\lwtofl.c
+[v ___lwtofl `(d  1 e 3 0 ]
+"29 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\lwtoft.c
+[v ___lwtoft `(f  1 e 3 0 ]
+"3 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\tmul.c
+[v ___tmul `(um  1 e 3 0 ]
+"3 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\wmul.c
+[v ___wmul `(ui  1 e 2 0 ]
+"20 E:\Program\PRGPIC\PIC18F4520\lcd22_rili\lcd_22.c
+[v _init_lcd_spi `(v  1 e 0 0 ]
+"31
+[v _init_touch_spi `(v  1 e 0 0 ]
+"41
+[v _post_data `(v  1 e 0 0 ]
+"60
+[v _lcd_rst `(v  1 e 0 0 ]
+"68
+[v _post_cmd `(v  1 e 0 0 ]
+"76
+[v _init_lcd `(v  1 e 0 0 ]
+"159
+[v _LCD_test `(v  1 e 0 0 ]
+"218
+[v _DisplayChar `(v  1 e 0 0 ]
+"256
+[v _DisplayChar_Reverse `(v  1 e 0 0 ]
+"295
+[v _swap `(*.Muc  1 e 1 0 ]
+"309
+[v _DisplayString `(v  1 e 0 0 ]
+"336
+[v _get_touch_data `(us  1 e 2 0 ]
+[s S21 xy 4 `us 1 x 2 0 `us 1 y 2 2 ]
+"356
+[v _get_touch_xy `(S21  1 e 4 0 ]
+"369
+[v _get_point_xy `(uc  1 e 1 0 ]
+"415
+[v _draw_lcd `(uc  1 e 1 0 ]
+"24 E:\Program\PRGPIC\PIC18F4520\lcd22_rili\main.c
+[v _init_mcu `(v  1 e 0 0 ]
+"34
+[v _main `(v  1 e 0 0 ]
+"18 E:\Program\PRGPIC\PIC18F4520\lcd22_rili\system.c
+[v _delay_ms `(v  1 e 0 0 ]
+"31
+[v _delay_us `(v  1 e 0 0 ]
+"88 C:\Program Files\HI-TECH Software\PICC-18\9.80\include\pic18f4520.h
+[v _PORTB `Vuc  1 e 1 @3969 ]
+"623
+[v _TRISA `Vuc  1 e 1 @3986 ]
+"686
+[v _TRISB `Vuc  1 e 1 @3987 ]
+"749
+[v _TRISC `Vuc  1 e 1 @3988 ]
+"812
+[v _TRISD `Vuc  1 e 1 @3989 ]
+"979
+[v _PIR1 `Vuc  1 e 1 @3998 ]
+"1844
+[v _ADCON1 `Vuc  1 e 1 @4033 ]
+"1995
+[v _SSPCON1 `Vuc  1 e 1 @4038 ]
+"2017
+[v _SSPSTAT `Vuc  1 e 1 @4039 ]
+"2136
+[v _SSPBUF `Vuc  1 e 1 @4041 ]
+"2917
+[v _INTCON `Vuc  1 e 1 @4082 ]
+"3939
+[v _RA0 `Vb  1 e 0 @31744 ]
+"3941
+[v _RA1 `Vb  1 e 0 @31745 ]
+"3943
+[v _RA2 `Vb  1 e 0 @31746 ]
+"3947
+[v _RA4 `Vb  1 e 0 @31748 ]
+"4015
+[v _RD0 `Vb  1 e 0 @31768 ]
+"4129
+[v _SSPIF `Vb  1 e 0 @31987 ]
+"4305
+[v _TRISC0 `Vb  1 e 0 @31904 ]
+"4307
+[v _TRISC1 `Vb  1 e 0 @31905 ]
+"4309
+[v _TRISC2 `Vb  1 e 0 @31906 ]
+"16 E:\Program\PRGPIC\PIC18F4520\lcd22_rili\asciihex8X16.h
+[v _ascii `C[2048]uc  1 e 2048 0 ]
+"18 E:\Program\PRGPIC\PIC18F4520\lcd22_rili\lcd_22.c
+[v _colorfol `C[8]us  1 e 16 0 ]
+"65 E:\Program\PRGPIC\PIC18F4520\lcd22_rili\lcd_22.h
+[v _touch_xy_buffer `V[8]S21  1 e 32 0 ]
+"66
+[v _touch_wr_index `Vuc  1 e 1 0 ]
+"67
+[v _touch_rd_index `Vuc  1 e 1 0 ]
+"68
+[v _touch_counter `Vuc  1 e 1 0 ]
+"34 E:\Program\PRGPIC\PIC18F4520\lcd22_rili\main.c
+[v _main `(v  1 e 0 0 ]
+{
+"55
+} 0
+"76 E:\Program\PRGPIC\PIC18F4520\lcd22_rili\lcd_22.c
+[v _init_lcd `(v  1 e 0 0 ]
+{
+"157
+} 0
+"60
+[v _lcd_rst `(v  1 e 0 0 ]
+{
+"65
+} 0
+"31 E:\Program\PRGPIC\PIC18F4520\lcd22_rili\system.c
+[v _delay_us `(v  1 e 0 0 ]
+{
+"32
+[v delay_us@i `uc  1 a 1 2 ]
+"31
+[v delay_us@us `us  1 p 2 0 ]
+"41
+} 0
+"159 E:\Program\PRGPIC\PIC18F4520\lcd22_rili\lcd_22.c
+[v _LCD_test `(v  1 e 0 0 ]
+{
+"160
+[v LCD_test@num `us  1 a 2 8 ]
+[v LCD_test@temp `us  1 a 2 6 ]
+"161
+[v LCD_test@n `uc  1 a 1 10 ]
+"209
+} 0
+"18 E:\Program\PRGPIC\PIC18F4520\lcd22_rili\system.c
+[v _delay_ms `(v  1 e 0 0 ]
+{
+"19
+[v delay_ms@i `uc  1 a 1 2 ]
+"18
+[v delay_ms@ms `us  1 p 2 0 ]
+"28
+} 0
+"369 E:\Program\PRGPIC\PIC18F4520\lcd22_rili\lcd_22.c
+[v _get_point_xy `(uc  1 e 1 0 ]
+{
+"371
+[v get_point_xy@tmp_xy_buf `[5]S21  1 a 20 39 ]
+"373
+[v get_point_xy@tmp_y `ul  1 a 4 35 ]
+"372
+[v get_point_xy@tmp_x `ul  1 a 4 31 ]
+"371
+[v get_point_xy@tmp_xy `S21  1 a 4 27 ]
+"370
+[v get_point_xy@n `uc  1 a 1 61 ]
+[v get_point_xy@m `uc  1 a 1 60 ]
+[v get_point_xy@tmp `uc  1 a 1 59 ]
+"412
+} 0
+"31
+[v _init_touch_spi `(v  1 e 0 0 ]
+{
+"37
+} 0
+"356
+[v _get_touch_xy `(S21  1 e 4 0 ]
+{
+"357
+[v get_touch_xy@tmp_xy `S21  1 a 4 9 ]
+"366
+} 0
+"336
+[v _get_touch_data `(us  1 e 2 0 ]
+{
+"337
+[v get_touch_data@tmp `uc  1 a 1 4 ]
+"336
+[v get_touch_data@cmd `us  1 p 2 0 ]
+"353
+} 0
+"415
+[v _draw_lcd `(uc  1 e 1 0 ]
+{
+"416
+[v draw_lcd@n `uc  1 a 1 8 ]
+"445
+} 0
+"20
+[v _init_lcd_spi `(v  1 e 0 0 ]
+{
+"28
+} 0
+"68
+[v _post_cmd `(v  1 e 0 0 ]
+{
+[v post_cmd@index `us  1 p 2 2 ]
+[v post_cmd@cmd `us  1 p 2 4 ]
+"73
+} 0
+"41
+[v _post_data `(v  1 e 0 0 ]
+{
+[v post_data@data `us  1 p 2 0 ]
+"54
+} 0
+"24 E:\Program\PRGPIC\PIC18F4520\lcd22_rili\main.c
+[v _init_mcu `(v  1 e 0 0 ]
+{
+"30
+} 0
+"3 C:\Program Files\HI-TECH Software\PICC-18\9.80\sources\lmul.c
+[v ___lmul `(ul  1 e 4 0 ]
+{
+"4
+[v ___lmul@product `ul  1 a 4 8 ]
+"3
+[v ___lmul@multiplier `ul  1 p 4 0 ]
+[v ___lmul@multiplicand `ul  1 p 4 4 ]
+"13
+} 0

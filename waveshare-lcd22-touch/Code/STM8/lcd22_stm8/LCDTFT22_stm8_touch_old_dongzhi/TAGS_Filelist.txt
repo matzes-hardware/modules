@@ -1,0 +1,13 @@
+dr\lcd_lib.c
+dr\ltm022a69b.c
+dr\system.c
+dr\touch.c
+main.c
+stm8_interrupt_vector.c
+dr\lcd_lib.h
+dr\ltm022a69b.h
+dr\system.h
+dr\touch.h
+d:\program files\cosmic\cxstm8\hstm8\mods0.h
+d:\program files\cosmic\cxstm8\hstm8\stm8s208m.h
+d:\program files\cosmic\cxstm8\hstm8\stm8s208mb.h

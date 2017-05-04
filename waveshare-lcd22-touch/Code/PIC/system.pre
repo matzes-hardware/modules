@@ -1,0 +1,66 @@
+
+# 1 "E:\Program\PRGPIC\PIC18F4520\lcd22_rili\system.c"
+
+# 18 "E:\Program\PRGPIC\PIC18F4520\lcd22_rili\system.h"
+typedef signed long s32;
+typedef signed short s16;
+typedef signed char s8;
+
+typedef signed long const sc32;
+typedef signed short const sc16;
+typedef signed char const sc8;
+
+typedef volatile signed long vs32;
+typedef volatile signed short vs16;
+typedef volatile signed char vs8;
+
+typedef volatile signed long const vsc32;
+typedef volatile signed short const vsc16;
+typedef volatile signed char const vsc8;
+
+typedef unsigned long u32;
+typedef unsigned short u16;
+typedef unsigned char u8;
+
+typedef unsigned long const uc32;
+typedef unsigned short const uc16;
+typedef unsigned char const uc8;
+
+typedef volatile unsigned long vu32;
+typedef volatile unsigned short vu16;
+typedef volatile unsigned char vu8;
+
+typedef volatile unsigned long const vuc32;
+typedef volatile unsigned short const vuc16;
+typedef volatile unsigned char const vuc8;
+
+# 60
+void delay_ms(u16 ms);
+void delay_us(u16 us);
+
+# 17 "E:\Program\PRGPIC\PIC18F4520\lcd22_rili\system.c"
+void delay_ms(u16 ms)
+{
+u8 i;
+while(ms!=0)
+{
+for(i=0;i<250;i++)
+{}
+for(i=0;i<75;i++)
+{}
+ms--;
+}
+}
+
+void delay_us(u16 us)
+{
+u8 i;
+while(us!=0)
+{
+for(i=0;i<25;i++)
+{}
+for(i=0;i<7;i++)
+{}
+us--;
+}
+}

@@ -1,0 +1,170 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BLACK	dr\ltm022a69b.h	33;"	macro
+BLUE	dr\ltm022a69b.h	31;"	macro
+CMD_READ_X	dr\touch.c	15;"	macro	file:
+CMD_READ_Y	dr\touch.c	16;"	macro	file:
+CYAN	dr\ltm022a69b.h	27;"	macro
+DARKBLUE	dr\ltm022a69b.h	43;"	macro
+DARKGRAY	dr\ltm022a69b.h	38;"	macro
+DEF_16BIT_REG_AT	d:\program files\cosmic\cxstm8\hstm8\stm8s208m.h	20;"	macro
+DEF_16BIT_REG_AT	d:\program files\cosmic\cxstm8\hstm8\stm8s208m.h	25;"	macro
+DEF_8BIT_REG_AT	d:\program files\cosmic\cxstm8\hstm8\stm8s208m.h	19;"	macro
+DEF_8BIT_REG_AT	d:\program files\cosmic\cxstm8\hstm8\stm8s208m.h	24;"	macro
+ERR_RANGE	dr\touch.c	194;"	macro	file:
+GB2312	dr\lcd_lib.c	150;"	variable
+GRAY	dr\ltm022a69b.h	36;"	macro
+GRAYBLUE	dr\ltm022a69b.h	41;"	macro
+GREEN	dr\ltm022a69b.h	30;"	macro
+GetTouchADC	dr\touch.c	106;"	function	signature:(unsigned char data)
+GetTouchADC	dr\touch.h	10;"	prototype	signature:( unsigned char cmd_code )
+GetTouchADCEx	dr\touch.c	138;"	function	signature:(unsigned char cmd_code)
+LCD_CS_H	dr\ltm022a69b.h	74;"	macro
+LCD_CS_L	dr\ltm022a69b.h	75;"	macro
+LCD_DELAY	dr\system.h	50;"	macro
+LCD_RST_H	dr\ltm022a69b.h	67;"	macro
+LCD_RST_L	dr\ltm022a69b.h	68;"	macro
+LCD_RS_H	dr\ltm022a69b.h	70;"	macro
+LCD_RS_L	dr\ltm022a69b.h	71;"	macro
+LCD_SEND_COMMAND	dr\ltm022a69b.c	96;"	function	signature:(unsigned int index,unsigned int data)
+LCD_WRITE_COMMAND	dr\ltm022a69b.c	120;"	function	signature:(unsigned int index,unsigned int data)
+LCD_WRITE_COMMAND	dr\ltm022a69b.h	90;"	prototype	signature:(unsigned int index, unsigned int data)
+LCD_WRITE_DATA	dr\ltm022a69b.c	144;"	function	signature:(unsigned int data)
+LCD_WRITE_DATA	dr\ltm022a69b.h	91;"	prototype	signature:(unsigned int data)
+LCD_WRITE_REG	dr\ltm022a69b.c	72;"	function	signature:(unsigned int index)
+LCD_WRITE_REG	dr\ltm022a69b.h	89;"	prototype	signature:(unsigned int index)
+LGRAY	dr\ltm022a69b.h	37;"	macro
+LGRAYBLUE	dr\ltm022a69b.h	42;"	macro
+LIGHTBLUE	dr\ltm022a69b.h	44;"	macro
+LOST_VAL	dr\touch.c	127;"	macro	file:
+NonHandledInterrupt	stm8_interrupt_vector.c	12;"	function	signature:(void)
+ORANGE	dr\ltm022a69b.h	35;"	macro
+PINK	dr\ltm022a69b.h	40;"	macro
+PORPO	dr\ltm022a69b.h	39;"	macro
+PURPLE	dr\ltm022a69b.h	28;"	macro
+READ_TIMES	dr\touch.c	126;"	macro	file:
+RED	dr\ltm022a69b.h	29;"	macro
+Read_ADS	dr\touch.c	174;"	function	signature:(unsigned int *x_ad,unsigned int *y_ad)
+Read_ADS	dr\touch.h	11;"	prototype	signature:( unsigned int *x_ad,unsigned int *y_ad )
+Read_ADS2	dr\touch.c	196;"	function	signature:(unsigned long *x_ad,unsigned long *y_ad)
+Read_ADS2	dr\touch.h	12;"	prototype	signature:( unsigned long *x_ad,unsigned long *y_ad )
+Read_Continue	dr\touch.c	250;"	function	signature:(void)
+Read_Continue	dr\touch.h	14;"	prototype	signature:( void )
+Read_Once	dr\touch.c	236;"	function	signature:(void)
+Read_Once	dr\touch.h	13;"	prototype	signature:( void )
+SPI0_Init	dr\ltm022a69b.c	33;"	function	signature:(void)
+SPI0_Init	dr\ltm022a69b.h	82;"	prototype	signature:(void)
+SPI0_communication	dr\ltm022a69b.c	61;"	function	signature:(unsigned char send_char)
+SPI0_communication	dr\ltm022a69b.h	83;"	prototype	signature:(unsigned char send_char)
+STM8S208M	d:\program files\cosmic\cxstm8\hstm8\stm8s208m.h	12;"	macro
+STM8S208MB	d:\program files\cosmic\cxstm8\hstm8\stm8s208mb.h	3;"	macro
+Swap	dr\ltm022a69b.c	618;"	function	signature:(unsigned int *a , unsigned int *b)
+TOUCH_WRITE_COMMAND	dr\touch.c	63;"	function	signature:(unsigned int index,unsigned int data)
+TOUCH_WRITE_DATA	dr\touch.c	90;"	function	signature:(unsigned int data)
+TOUCH_WRITE_REG	dr\touch.c	42;"	function	signature:(unsigned int index)
+TOUCH_init	dr\touch.c	32;"	function	signature:(void)
+TOUCH_init	dr\touch.h	7;"	prototype	signature:(void)
+TOUCH_nCS_H	dr\touch.c	11;"	macro	file:
+TOUCH_nCS_L	dr\touch.c	12;"	macro	file:
+WHITE	dr\ltm022a69b.h	32;"	macro
+YELLOW	dr\ltm022a69b.h	34;"	macro
+_SYSTEM_H	dr\system.h	16;"	macro
+__LCD_LIB_H__	dr\lcd_lib.h	12;"	macro
+__LTM022A69B_H__	dr\ltm022a69b.h	11;"	macro
+__MODS0__	d:\program files\cosmic\cxstm8\hstm8\mods0.h	11;"	macro
+__STM8S208M__	d:\program files\cosmic\cxstm8\hstm8\stm8s208m.h	6;"	macro
+__TOUCH_H__	dr\touch.h	2;"	macro
+_stext	stm8_interrupt_vector.c	20;"	prototype	file:
+_touch_dot	dr\touch.c	25;"	typedef	typeref:struct:__anon1	file:
+_touch_dot	main.c	21;"	typedef	typeref:struct:__anon2	file:
+_vectab	stm8_interrupt_vector.c	22;"	variable
+ascii	dr\lcd_lib.c	17;"	variable
+cbi	dr\system.h	55;"	macro
+color	dr\ltm022a69b.c	550;"	variable
+convert_ad_to_xy	dr\touch.c	219;"	function	signature:(void)
+convert_ad_to_xy	dr\touch.h	15;"	prototype	signature:( void )
+delay_ms	dr\system.c	2;"	function	signature:(u16 ms)
+delay_ms	dr\system.h	60;"	prototype	signature:(u16 ms)
+delay_us	dr\system.c	15;"	function	signature:(u16 us)
+delay_us	dr\system.h	61;"	prototype	signature:(u16 us)
+display_touch_debug	main.c	24;"	prototype	file:
+display_touch_debug	main.c	25;"	function
+gbi	dr\system.h	57;"	macro
+interrupt_handler	stm8_interrupt_vector.c	9;"	member	struct:interrupt_vector	file:
+interrupt_handler_t	stm8_interrupt_vector.c	5;"	typedef	file:
+interrupt_instruction	stm8_interrupt_vector.c	8;"	member	struct:interrupt_vector	file:
+interrupt_vector	stm8_interrupt_vector.c	7;"	struct	file:
+lcd_clear_area	dr\ltm022a69b.c	308;"	function	signature:(unsigned int color_front, unsigned char x, unsigned int y, unsigned int width, unsigned height)
+lcd_clear_area	dr\ltm022a69b.h	99;"	prototype	signature:(unsigned int color_front, unsigned char x, unsigned int y, unsigned int width, unsigned height)
+lcd_clear_screen	dr\ltm022a69b.c	269;"	function	signature:(unsigned int color_background)
+lcd_clear_screen	dr\ltm022a69b.h	97;"	prototype	signature:(unsigned int color_background)
+lcd_ctrl_port_init	dr\ltm022a69b.c	156;"	function
+lcd_ctrl_port_init	dr\ltm022a69b.c	20;"	prototype	file:	signature:(void)
+lcd_display_GB2312	dr\ltm022a69b.c	452;"	function	signature:( unsigned char gb, unsigned int color_front, unsigned int color_background, unsigned char postion_x, unsigned char postion_y )
+lcd_display_GB2312	dr\ltm022a69b.h	119;"	prototype	signature:(unsigned char gb, unsigned int color_front, unsigned int color_background, unsigned char postion_x, unsigned char postion_y)
+lcd_display_char	dr\ltm022a69b.c	364;"	function	signature:( unsigned char ch_asc, unsigned int color_front, unsigned int color_background, unsigned char postion_x, unsigned char postion_y)
+lcd_display_char	dr\ltm022a69b.h	107;"	prototype	signature:(unsigned char ch_asc, unsigned int color_front, unsigned int color_background, unsigned char postion_x, unsigned char postion_y)
+lcd_display_image	dr\ltm022a69b.c	502;"	function	signature:( const unsigned char *img, unsigned char x, unsigned int y, unsigned int width, unsigned height )
+lcd_display_image	dr\ltm022a69b.h	125;"	prototype	signature:(const unsigned char *img, unsigned char x, unsigned int y, unsigned int width, unsigned height)
+lcd_display_number	dr\ltm022a69b.c	758;"	function	signature:(unsigned int x, unsigned int y, unsigned long num, unsigned char num_len )
+lcd_display_number	dr\ltm022a69b.h	148;"	prototype	signature:(unsigned int x, unsigned int y, unsigned long num, unsigned char num_len)
+lcd_display_string	dr\ltm022a69b.c	417;"	function	signature:(unsigned char *str, unsigned int color_front, unsigned int color_background, unsigned char x, unsigned char y )
+lcd_display_string	dr\ltm022a69b.h	113;"	prototype	signature:(unsigned char *str, unsigned int color_front, unsigned int color_background, unsigned char x, unsigned char y)
+lcd_display_test	dr\ltm022a69b.c	563;"	function	signature:(void)
+lcd_display_test	dr\ltm022a69b.h	154;"	prototype	signature:(void)
+lcd_draw_bigdot	dr\ltm022a69b.c	660;"	function	signature:(unsigned int color_front, unsigned int x, unsigned int y )
+lcd_draw_bigdot	dr\ltm022a69b.h	135;"	prototype	signature:(unsigned int color_front, unsigned int x, unsigned int y )
+lcd_draw_dot	dr\ltm022a69b.c	633;"	function	signature:(unsigned int color_front, unsigned char x, unsigned int y)
+lcd_draw_dot	dr\ltm022a69b.h	131;"	prototype	signature:(unsigned int color_front, unsigned char x, unsigned int y)
+lcd_draw_line	dr\ltm022a69b.c	685;"	function	signature:( unsigned int line_color, unsigned int x1, unsigned int y1, unsigned int x2, unsigned int y2 )
+lcd_draw_line	dr\ltm022a69b.h	140;"	prototype	signature:( unsigned int line_color, unsigned int x1, unsigned int y1, unsigned int x2, unsigned int y2 )
+lcd_init	dr\ltm022a69b.c	171;"	function	signature:(void)
+lcd_init	dr\ltm022a69b.h	92;"	prototype	signature:(void)
+lcd_set_cursor	dr\ltm022a69b.c	346;"	function	signature:(unsigned char x, unsigned int y)
+lcd_set_cursor	dr\ltm022a69b.h	105;"	prototype	signature:(unsigned char x, unsigned int y)
+main	main.c	44;"	function	signature:(void)
+mypow	dr\ltm022a69b.c	746;"	function	signature:(unsigned char m,unsigned char n)
+p_touch_dot	dr\touch.c	28;"	variable
+pen_status	dr\touch.c	24;"	member	struct:__anon1	file:
+pen_status	main.c	19;"	member	struct:__anon2	file:
+read_res	main.c	10;"	variable
+s16	dr\system.h	19;"	typedef
+s32	dr\system.h	18;"	typedef
+s8	dr\system.h	20;"	typedef
+sbi	dr\system.h	53;"	macro
+sc16	dr\system.h	23;"	typedef
+sc32	dr\system.h	22;"	typedef
+sc8	dr\system.h	24;"	typedef
+touch_dot	dr\touch.c	28;"	variable
+u16	dr\system.h	35;"	typedef
+u32	dr\system.h	34;"	typedef
+u8	dr\system.h	36;"	typedef
+uc16	dr\system.h	39;"	typedef
+uc32	dr\system.h	38;"	typedef
+uc8	dr\system.h	40;"	typedef
+uchar	dr\ltm022a69b.c	18;"	macro	file:
+uint	dr\ltm022a69b.c	17;"	macro	file:
+vs16	dr\system.h	27;"	typedef
+vs32	dr\system.h	26;"	typedef
+vs8	dr\system.h	28;"	typedef
+vsc16	dr\system.h	31;"	typedef
+vsc32	dr\system.h	30;"	typedef
+vsc8	dr\system.h	32;"	typedef
+vu16	dr\system.h	43;"	typedef
+vu32	dr\system.h	42;"	typedef
+vu8	dr\system.h	44;"	typedef
+vuc16	dr\system.h	47;"	typedef
+vuc32	dr\system.h	46;"	typedef
+vuc8	dr\system.h	48;"	typedef
+x	dr\touch.c	20;"	member	struct:__anon1	file:
+x	main.c	14;"	member	struct:__anon2	file:
+x_ad_val	dr\touch.c	22;"	member	struct:__anon1	file:
+x_ad_val	main.c	17;"	member	struct:__anon2	file:
+y	dr\touch.c	21;"	member	struct:__anon1	file:
+y	main.c	16;"	member	struct:__anon2	file:
+y_ad_val	dr\touch.c	23;"	member	struct:__anon1	file:
+y_ad_val	main.c	18;"	member	struct:__anon2	file:
