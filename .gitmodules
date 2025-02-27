@@ -1,6 +1,4 @@
-[submodule "waveshare lcd22 touch/GitHub/DisplayCore/BD663474"]
-	path = waveshare-lcd22-touch/GitHub/DisplayCore/BD663474
-	url = git@github.com:DisplayCore/BD663474.git
-[submodule "waveshare lcd22 touch/GitHub/DisplayCore/DisplayCore"]
-	path = waveshare-lcd22-touch/GitHub/DisplayCore/DisplayCore
-	url = git@github.com:DisplayCore/DisplayCore.git
+
+[submodule "Waveshare-LCD22 - TFT display with touchscreen/lcd-ui"]
+	path = Waveshare LCD22 - TFT display with touchscreen/lcd-ui
+	url = https://github.com/matthiasbock/lcd-ui.git
