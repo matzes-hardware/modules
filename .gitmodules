@@ -5,3 +5,6 @@
 [submodule "Cypress CY768013A Breakout Board"]
 	path = Cypress CY768013A Breakout Board
 	url = https://github.com/matzes-hardware/cy768013a-breakout-board.git
+[submodule "CH340A-Miniprogrammer - USB-serial-adapter"]
+	path = CH340A-Miniprogrammer - USB-serial-adapter
+	url = git@github.com:matzes-hardware/ch341a-miniprogrammer.git
