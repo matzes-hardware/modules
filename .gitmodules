@@ -2,3 +2,6 @@
 [submodule "Waveshare-LCD22 - TFT display with touchscreen/lcd-ui"]
 	path = Waveshare LCD22 - TFT display with touchscreen/lcd-ui
 	url = https://github.com/matthiasbock/lcd-ui.git
+[submodule "Cypress CY768013A Breakout Board"]
+	path = Cypress CY768013A Breakout Board
+	url = https://github.com/matzes-hardware/cy768013a-breakout-board.git
